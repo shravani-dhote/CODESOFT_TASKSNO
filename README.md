@@ -2,27 +2,6 @@
 
 A modern, responsive, and interactive personal portfolio website built using **HTML, CSS, and JavaScript**. This portfolio showcases my skills, projects, achievements, education, leadership experience, and contact information.
 
----
-
-## 🚀 Live Demo
-
-🔗 Add your live website link here after deployment
-
-Example:
-https://your-portfolio.netlify.app
-
----
-
-## 📸 Preview
-
-Add a screenshot of your portfolio here.
-
-Example:
-
-![Portfolio Screenshot](images/portfolio-preview.png)
-
----
-
 ## ✨ Features
 
 - Responsive Design
@@ -58,7 +37,6 @@ Portfolio/
 ├── index.html
 ├── style.css
 ├── script.js
-├── profile.jpg
 ├── README.md
 ├── assets/
 │   ├── images
